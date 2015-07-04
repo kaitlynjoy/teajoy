@@ -1,0 +1,34 @@
+@media only screen and (max-width: 450px){
+
+h3 {
+
+}
+.paragraphimg {
+	float: none;
+	display: block;
+	margin: 0 auto;
+	padding: 0px 5% 5px 0px;
+}
+
+.paragraphs {
+	padding: 0;
+}
+
+h3 {
+	font-size: 2em;
+	background-color: #ce9515;
+	min-width: 0px;
+	width: 100%;
+	position: relative;
+	left: 0%;
+	padding-left: 0px;
+	margin-top: 20px;
+	margin: 20px 0 0 0;
+	text-align: center;
+}
+
+.nowrap {
+	margin-left: auto;
+}
+
+}
